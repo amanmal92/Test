@@ -1,1 +1,1 @@
-# Test
+Be sure you have your SSH cofigured
